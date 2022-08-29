@@ -8,7 +8,7 @@ body{
 }
 .first-part{
 display: inline-block;
-width: 20%;
+max-width: 20%;
 height: 15%;
 padding: 20px;
 margin: 60px auto;
